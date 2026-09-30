@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "SPO_Lab2a/1.0.0": {
+        "dependencies": {
+          "ClangSharp": "18.1.0"
+        },
+        "runtime": {
+          "SPO_Lab2a.dll": {}
+        }
+      },
+      "ClangSharp/18.1.0": {
+        "dependencies": {
+          "ClangSharp.Interop": "18.1.0"
+        },
+        "runtime": {
+          "lib/net8.0/ClangSharp.dll": {
+            "assemblyVersion": "18.1.0.0",
+            "fileVersion": "18.1.0.0"
+          }
+        }
+      },
+      "ClangSharp.Interop/18.1.0": {
+        "runtime": {
+          "lib/net8.0/ClangSharp.Interop.dll": {
+            "assemblyVersion": "18.1.0.0",
+            "fileVersion": "18.1.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SPO_Lab2a/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClangSharp/18.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9p5aiPpCN/CkfGcYUvIEYf/5zhb0sRoZK+YjBSEcaELw+1r+SAnBoFyE7ZVR53w97RZoXNCJX0P++WE3K51+qA==",
+      "path": "clangsharp/18.1.0",
+      "hashPath": "clangsharp.18.1.0.nupkg.sha512"
+    },
+    "ClangSharp.Interop/18.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WnOTnAn2DcnL+yPWuMsyrCQyAPBrfIQZqk9rIV7T43rbi3VuCep6VLEE9wuyIjnh2sZGNlRrv0T9Wb1Ng7Fr2A==",
+      "path": "clangsharp.interop/18.1.0",
+      "hashPath": "clangsharp.interop.18.1.0.nupkg.sha512"
+    }
+  }
+}

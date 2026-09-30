@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "gyIr3nL/5JM=",
+  "success": true,
+  "projectFilePath": "D:\\vsProjects\\SPO_Lab2a\\SPO_Lab2a.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yavay\\.nuget\\packages\\clangsharp\\18.1.0\\clangsharp.18.1.0.nupkg.sha512",
+    "C:\\Users\\yavay\\.nuget\\packages\\clangsharp.interop\\18.1.0\\clangsharp.interop.18.1.0.nupkg.sha512",
+    "C:\\Users\\yavay\\.nuget\\packages\\libclang\\18.1.3.2\\libclang.18.1.3.2.nupkg.sha512",
+    "C:\\Users\\yavay\\.nuget\\packages\\libclangsharp\\22.1.8.2\\libclangsharp.22.1.8.2.nupkg.sha512"
+  ],
+  "logs": []
+}
